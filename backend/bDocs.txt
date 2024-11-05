@@ -1,1 +1,15 @@
 
+- Subject:
+   + E-Commerce
+
+- Technologies:
+   + Java 17
+   + Spring 3
+   + Angular 18 (Sakai Primeng, ngx-admin,        Responsive)
+   + MongoDB, PostgrSQL
+   + Elasticsearch
+   + Keycloak, Oauth2
+   + Sonarlint (Clean Code, Best Practices)
+
+- Architecture:
+   + Microservices
