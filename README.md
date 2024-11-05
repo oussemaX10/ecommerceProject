@@ -15,11 +15,6 @@ Ecommerce App is an innovative online shopping platform designed to provide a se
 - [Technologies](#technologies)
 - [Architecture](#architecture)
 - [Tools](#tools)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Features
 - User authentication and authorization
