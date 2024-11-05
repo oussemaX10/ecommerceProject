@@ -1,6 +1,6 @@
 # Ecommerce Project
 
-![Project Banner](assets/ecommerceProjectBanner.jpg)
+![Project Banner](assets/ecommerceProjectBanner.png)
 
 ## Project Name
 **Ecommerce App**
