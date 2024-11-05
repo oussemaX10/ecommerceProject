@@ -23,6 +23,7 @@ Ecommerce App is an innovative online shopping platform designed to provide a se
 - Order tracking and history
 - Customer reviews and ratings
 - Admin dashboard for product management
+- AI Integrations
 
 ## Technologies
 - **Backend:**
