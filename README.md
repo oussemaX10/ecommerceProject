@@ -1,20 +1,19 @@
 # Ecommerce Project
 
-![Project Logo](path/to/logo.png)
+![Project Banner](assets/ecommerceProjectBanner.jpg)
 
 ## Project Name
 **Ecommerce App**
 
-## Description
-Ecommerce App is an innovative online shopping platform designed to provide a seamless and enjoyable shopping experience. Our goal is to connect buyers with a wide range of products from various sellers, offering a user-friendly interface, secure transactions, and efficient customer support.
-
 ## Table of Contents
-- [Project Name](#project-name)
 - [Description](#description)
 - [Features](#features)
 - [Technologies](#technologies)
 - [Architecture](#architecture)
 - [Tools](#tools)
+
+## Description
+Ecommerce App is an innovative online shopping platform designed to provide a seamless and enjoyable shopping experience. Our goal is to connect buyers with a wide range of products from various sellers, offering a user-friendly interface, secure transactions, and efficient customer support.
 
 ## Features
 - User authentication and authorization
