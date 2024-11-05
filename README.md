@@ -49,11 +49,10 @@ Ecommerce App is an innovative online shopping platform designed to provide a se
 
 ## Tools
 - **Version Control:** Git
-- **Project Management:** Trello
-- **Code Editor:** Visual Studio Code
+- **Code Editor:** Intellij, Visual Studio Code
 - **Deployment:** Docker, Kubernetes
 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ecommerce-App.git
+   git clone https://github.com/oussemaX10/ecommerceProject.git
