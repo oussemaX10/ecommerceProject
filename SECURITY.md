@@ -355,5 +355,5 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
 
 **Remember**: Security is everyone's responsibility. When in doubt, ask the security team before proceeding.
 
-*Last Updated: [Current Date]*
+*Last Updated: 09-07-2025*
 *Version: 1.0*
