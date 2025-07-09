@@ -348,8 +348,6 @@ ENTRYPOINT ["java", "-jar", "/app.jar"]
 
 - **Security Team**
 - **Emergency**:
-- **Security Lead**: [Name] - [email]
-- **DevOps Security**: [Name] - [email]
 
 ---
 
